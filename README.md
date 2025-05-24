@@ -22,7 +22,7 @@ python hand_draw.py
 
 ```
 
-#How It Works
+###How It Works
 
 The webcam captures frames.
 
@@ -38,7 +38,7 @@ Drawing happens when the index finger is extended.
 
 When all fingers are closed, the screen is cleared.
 
-#Customization
+###Customization
 
 redpos = (int(w/6), 50)   # Adjusting text positions dynamically
 bluepos = (int(2*(w/6)), 50)
@@ -46,8 +46,12 @@ greenpos = (int(3*(w/6)), 50)
 pluspos = (int(4*(w/6)), 50)
 minuspos = (int(5*(w/6)), 50)
 
-#License
+###License
 This project is open-source and available under the MIT License
+
+###Screenshot
+![Hand Gesture Drawing Demo](demo_image.jpg)
+
 
 
 
