@@ -50,7 +50,7 @@ minuspos = (int(5*(w/6)), 50)
 This project is open-source and available under the MIT License
 
 ###Screenshot
-![Hand Gesture Drawing Demo](demo_image.jpg)
+![Hand Gesture Drawing Demo](image.png)
 
 
 
